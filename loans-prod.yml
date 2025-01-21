@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Loan Related Production API"
+  message: "Welcome to Loan Related prod API"
   contactDetails:
     name: "Hardik ojha- Product Owner"
     email: "{cipher}7674afe954f6a1f0c86951723fb59f77de94be7a4aa34e506c066ac2564506ccea9421e1de28f5af2d318994ef29dbf7"
