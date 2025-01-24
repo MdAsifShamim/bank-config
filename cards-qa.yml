@@ -3,7 +3,7 @@ build:
 
 cards:
   message: "Welcome to Card Related QA API"
-  contactDetail:
+  contactDetails:
     name: "Zeeshan Ali- QA Head"
     email: "{cipher}1ce7a45593c07ce2db186aa593720f12ec447d47be15f507b4942193348382c081b9fc65b022f00aa369dde312081c7a"
   onCallSupport:
