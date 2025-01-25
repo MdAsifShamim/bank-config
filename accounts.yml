@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to Bank accounts related Docker APIs"
+  message: "Welcome to Bank accounts related Zeeshan APIs"
   contactDetails:
     name: "Md Asif SHAMIM- developer"
     email: "{cipher}3cc7e0a24c00c7a1b3f07a044209fb4794069eda770b93dbe02a6ce3b53e7e427490ca4f7e204714961effe5311b1e0f"
